@@ -1,0 +1,2 @@
+Why we opted to use browser authentication instead of native OAuth?
+http://thehackernews.com/2014/08/hacking-gmail-account-mobile-app.html
