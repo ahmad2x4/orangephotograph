@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JosefinSlabRegular';
+    src: url('josefinslab-regular.eot');
+    src: url('josefinslab-regular.eot') format('embedded-opentype'),
+         url('josefinslab-regular.woff2') format('woff2'),
+         url('josefinslab-regular.woff') format('woff'),
+         url('josefinslab-regular.ttf') format('truetype'),
+         url('josefinslab-regular.svg#JosefinSlabRegular') format('svg');
+}
