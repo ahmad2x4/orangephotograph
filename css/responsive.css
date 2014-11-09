@@ -96,7 +96,17 @@ margin-left:50px
 }
 
 
+/* MAX 980px */
 
+@media only screen and (max-width: 980px){
+
+
+
+.project_list .single_project {
+  width: 350px;
+}
+
+}
 
 
 
