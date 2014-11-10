@@ -1,120 +1,66 @@
 /* Min 1200px */
-
-@media only screen and (min-width: 1200px){
-
-.about_text_area {
-  width: 585px;
-margin-left:50px
-}
-
-.project_list .single_project {
-
-  width: 330px;
-}
-
-
-
-
+@media only screen and (min-width: 1200px) {
+	.about_text_area {
+		width: 585px;
+		margin-left: 50px
+	}
+	.project_list .single_project {
+		width: 330px;
+	}
 }
 
 /* Min 1024px */
-
-@media only screen and (min-width: 1024px){
-
-.about_text_area {
-  width: 521px;
-  margin-left:50px;}
-
-.project_list .single_project {
-  width: px;
-}
-
-
-
+@media only screen and (min-width: 1024px) {
+	.about_text_area {
+		width: 521px;
+		margin-left: 50px;
+	}
+	.project_list .single_project {
+		width: px;
+	}
 }
 
 /* max 930px */
-
-@media only screen and (max-width: 930px){
-
-.about_text_area {
-  margin-left: 80px;
-  width: 400px;
-}
-
-.project_list .single_project {
-  width: 350px;
-}
-
-
-
+@media only screen and (max-width: 930px) {
+	.about_text_area {
+		margin-left: 80px;
+		width: 400px;
+	}
+	.project_list .single_project {
+		width: 350px;
+	}
 }
 
 /* max 770px */
-
-@media only screen and (max-width: 800px){
-.about_text_area {
-  margin-left: 80px;
-  width: 400px;
-}
-
-
-
-
-
-
+@media only screen and (max-width: 800px) {
+	.about_text_area {
+		margin-left: 80px;
+		width: 400px;
+	}
 }
 
 /* MAX 640px */
-
-@media only screen and (max-width: 640px){
-
-
-
-
-
+@media only screen and (max-width: 640px) {
 }
 
 /* MAX 480px */
-
-@media only screen and (max-width: 480px){
-
-.about_text_area {
-  margin-left: 0px;
-  width: 400px;
-  
-}
-.about_text h2{margin-top:30px;}
-
-
+@media only screen and (max-width: 480px) {
+	.about_text_area {
+		margin-left: 0px;
+		width: 400px;
+	}
+	.about_text h2 {
+		margin-top: 30px;
+	}
 }
 
 /* MAX 360px */
-
-@media only screen and (max-width: 360px){
-
+@media only screen and (max-width: 360px) {
 }
-
 
 /* MAX 980px */
-
-@media only screen and (max-width: 980px){
-
-
-
-.project_list .single_project {
-  width: 350px;
+@media only screen and (max-width: 980px) {
+	.project_list .single_project {
+		width: 350px;
+	}
 }
-
-}
-
-
-
-
-
-	
-
-
-
-
-
