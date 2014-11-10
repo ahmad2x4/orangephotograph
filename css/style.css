@@ -377,4 +377,11 @@ form#contact-form {
 	position: fixed;
 }
 
+.carousel-indicators li {
+	background-color: #ddd;
+}
+
+.carousel-indicators .active {
+	background-color: #ff7f00;
+}
 /**/
