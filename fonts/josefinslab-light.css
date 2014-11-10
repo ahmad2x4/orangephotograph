@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JosefinSlabLight';
+    src: url('josefinslab-light.eot');
+    src: url('josefinslab-light.eot') format('embedded-opentype'),
+         url('josefinslab-light.woff2') format('woff2'),
+         url('josefinslab-light.woff') format('woff'),
+         url('josefinslab-light.ttf') format('truetype'),
+         url('josefinslab-light.svg#JosefinSlabLight') format('svg');
+}
