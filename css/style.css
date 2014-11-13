@@ -125,8 +125,8 @@
 }
 
 .project_list .single_project {
-	float: left;
-	width: 370px;
+	float: inherit;
+	width: 100%;
 	margin-bottom: 31px;
 	margin-left: 10px;
 	position: relative
@@ -383,5 +383,10 @@ form#contact-form {
 
 .carousel-indicators .active {
 	background-color: #ff7f00;
+}
+
+#home .container {
+	padding-left: 0px;
+	padding-right: 0px;
 }
 /**/

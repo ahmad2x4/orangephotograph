@@ -4,9 +4,6 @@
 		width: 585px;
 		margin-left: 50px
 	}
-	.project_list .single_project {
-		width: 330px;
-	}
 }
 
 /* Min 1024px */
@@ -15,9 +12,10 @@
 		width: 521px;
 		margin-left: 50px;
 	}
-	.project_list .single_project {
-		width: px;
-	}
+}
+
+/* MAX 980px */
+@media only screen and (max-width: 980px) {
 }
 
 /* max 930px */
@@ -25,9 +23,6 @@
 	.about_text_area {
 		margin-left: 80px;
 		width: 400px;
-	}
-	.project_list .single_project {
-		width: 350px;
 	}
 }
 
@@ -56,11 +51,4 @@
 
 /* MAX 360px */
 @media only screen and (max-width: 360px) {
-}
-
-/* MAX 980px */
-@media only screen and (max-width: 980px) {
-	.project_list .single_project {
-		width: 350px;
-	}
 }
