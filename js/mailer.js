@@ -2,7 +2,7 @@ var orangePhotography = orangePhotography || {};
 
 (function  ($) {
 	orangePhotography.mailer = (function  () {
-		var url = 'https://www.codolutions.com/mailermodule/send';
+		var url = 'https://api.codolutions.com/mailermodule/send';
 		var sendfun = function  (subject, html, done, error) {
 			var data = {
 				subject:subject,
